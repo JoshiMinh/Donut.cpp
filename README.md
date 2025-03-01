@@ -15,4 +15,7 @@ This repository includes four 3D simulations in the terminal:
 
 ![Demo](demo.png)
 
+
+https://www.a1k0n.net/2011/07/20/donut-math.html
+
 Run the code and see it for yourself.
