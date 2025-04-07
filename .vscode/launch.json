@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Projects/Tech Projects/Donut",
-      "program": "d:/Projects/Tech Projects/Donut/build/Debug/outDebug",
+      "cwd": "d:/Projects/Donut",
+      "program": "d:/Projects/Donut/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
