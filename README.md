@@ -1,21 +1,15 @@
-# Donut.cpp
+# 🍩 Donut.cpp
 
-Based on the idea from a video by GreenCode.
+Inspired by [GreenCode's video](https://www.youtube.com/watch?v=74FJ8TTMM5E&ab_channel=GreenCode) and the [original C code by a1k0n](https://www.a1k0n.net/2011/07/20/donut-math.html), this project brings the classic ASCII donut and additional shapes to C++. While the core idea and code are not originally mine, I have enhanced and expanded them for greater versatility.
+
+## Preview
+
+![Preview](preview.png)
+
+## Usage
+
+Compile and run the code as you would any standard C++ file:
 
 ```cpp
-// Run the code like normal C++ files
+// Example: g++ donut.cpp -o donut && ./donut
 ```
-
-This repository includes four 3D simulations in the terminal:
-
-- **Donut** (Original code from the creator)
-- **Donut_Improved** (My improved version)
-- **Cube** (My code)
-- **Pyramid** (My code, but this one is hollow)
-
-![Demo](demo.png)
-
-
-https://www.a1k0n.net/2011/07/20/donut-math.html
-
-Run the code and see it for yourself.
