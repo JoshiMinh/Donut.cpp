@@ -1,19 +1,21 @@
-<div align="center">
-
 # 🍩 Donut.cpp
 
-</div>
-
-Inspired by [GreenCode's video](https://www.youtube.com/watch?v=74FJ8TTMM5E&ab_channel=GreenCode) and the [original C code by a1k0n](https://www.a1k0n.net/2011/07/20/donut-math.html), this project brings the classic ASCII donut and additional shapes to C++. While the core idea and code are not originally mine, I have enhanced and expanded them for greater versatility.
+A modern C++ spin on the classic ASCII donut, inspired by [GreenCode's video](https://www.youtube.com/watch?v=74FJ8TTMM5E) and [a1k0n's original C code](https://www.a1k0n.net/2011/07/20/donut-math.html). Enhanced with new shapes and customization options.
 
 ## Preview
 
-![Preview](preview.png)
+![Donut Preview](preview.png)
 
-## Usage
+## Available Shapes
 
-Compile and run the code as you would any standard C++ file:
+| File                     | Description                      |
+|--------------------------|----------------------------------|
+| `src/donut.cpp`          | Classic spinning ASCII donut     |
+| `src/donut_improved.cpp` | Donut with color & scaling       |
+| `src/cube.cpp`           | Spinning shaded ASCII cube       |
+| `src/pyramid.cpp`        | Wireframe spinning pyramid       |
 
-```cpp
-// Example: g++ donut.cpp -o donut && ./donut
-```
+---
+
+**Quick Start:**  
+Run `run.bat` to compile and launch the interactive menu.

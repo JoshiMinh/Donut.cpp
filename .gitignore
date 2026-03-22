@@ -1,3 +1,7 @@
+# Build outputs
+bin/
+*.o
+*.out
+
+# Editor settings
 .vscode/
-*.exe
-*.exe
